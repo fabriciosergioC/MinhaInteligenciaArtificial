@@ -13,22 +13,14 @@
 - 
 ## 🚀 Como Usar
 
+### Instalação
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/chatbot.git
-Abra o arquivo index.html no seu navegador
-
-Interaja com o chatbot:
-
-Digite sua pergunta no campo indicado
-
-Pressione "Enviar" ou tecle Enter
 
 🛠️ Tecnologias Utilizadas
 HTML5
-
 CSS3
-
 JavaScript
 
 🤝 Como Contribuir
