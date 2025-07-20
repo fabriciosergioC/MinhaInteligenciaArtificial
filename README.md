@@ -13,25 +13,11 @@
 - 
 ## 🚀 Como Usar
 
-### Instalação
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/chatbot.git
-
+# Instalação
+- Clone o repositório: git clone https://github.com/seu-usuario/chatbot.git
+- 
 🛠️ Tecnologias Utilizadas
 HTML5
 CSS3
 JavaScript
 
-🤝 Como Contribuir
-Faça um fork do projeto
-
-Crie uma branch (git checkout -b feature/nova-funcionalidade)
-
-Commit suas mudanças (git commit -m 'Adiciona nova funcionalidade')
-
-Push para a branch (git push origin feature/nova-funcionalidade)
-
-Abra um Pull Request
-
- 
