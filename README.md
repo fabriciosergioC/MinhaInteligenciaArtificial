@@ -15,9 +15,11 @@
 
 # Instalação
 - Clone o repositório: git clone https://github.com/seu-usuario/chatbot.git
-- 
+  
 🛠️ Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
+
+
 
