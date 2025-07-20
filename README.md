@@ -14,7 +14,7 @@
 ## 🚀 Como Usar
 
 # Instalação
-- Clone o repositório: git clone (https://github.com/fabriciosergioC/MinhaInteligenciaArtificial.git)
+- Clone o repositório: git clone https://github.com/fabriciosergioC/MinhaInteligenciaArtificial.git
   
 🛠️ Tecnologias Utilizadas
 - HTML5
