@@ -1,0 +1,13 @@
+# Ignora a pasta node_modules
+node_modules/
+
+# Ignora arquivos de ambiente (.env, .env.local, etc.)
+.env
+.env.local
+.env*.local
+
+# Outros ignores comuns (opcional)
+.DS_Store       # Arquivos ocultos do macOS
+.idea/          # Configurações de IDE (JetBrains)
+dist/           # Pasta de build (se aplicável)
+*.log           # Arquivos de log
