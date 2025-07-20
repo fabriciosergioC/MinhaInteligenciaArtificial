@@ -1,6 +1,6 @@
 # 🤖 ChatBot Interativo
 
-![Captura de Tela do ChatBot](MinhaInteligencia.png)
+![Captura de Tela do ChatBot](imagens/MinhaInteligencia.png)
 
 > Um chatbot inteligente que responde perguntas básicas em português e inglês
 
